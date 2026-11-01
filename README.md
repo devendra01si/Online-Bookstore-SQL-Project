@@ -32,3 +32,20 @@ The queries investigate book genres and publication years, customers by country,
 Project learning:
 
 This project provided practice in designing a relational database and writing SQL queries to answer operational and business questions about books, customers, orders, sales, and inventory.
+
+📸 Project Screenshots
+
+1. Database Schema and SQL Editor
+
+This screenshot demonstrates the database creation process, table structures, primary keys, and SQL implementation.
+
+![Database Schema](assets/screenshots/01-database-schema-and-sql-editor.png)
+
+2. Advanced SQL Queries
+
+This screenshot demonstrates advanced SQL operations, including JOIN, GROUP BY, aggregate functions, and HAVING clauses.
+
+![Advanced SQL Queries](assets/screenshots/02-advanced-sql-queries.png)
+
+
+
