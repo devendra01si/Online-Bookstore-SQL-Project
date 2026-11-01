@@ -35,19 +35,20 @@ This project provided practice in designing a relational database and writing SQ
 
 📸 Project Screenshots
 
-1. Database Schema and SQL Editor
+ 1. Database Schema and SQL Editor
 
-This screenshot demonstrates the database creation process, table structures, primary keys, and SQL implementation.
+This screenshot demonstrates database creation, table structures, primary keys, and SQL implementation.
 
-![Database Schema](<img width="1356" height="574" alt="online_bookstoreSQL" src="https://github.com/user-attachments/assets/febbd7b0-d553-4260-bf08-36512e2ae09d" />
-)
+[![Database Schema and SQL Editor](./online_bookstoreSQL.png)](./online_bookstoreSQL.png)
+
+[View full Database Schema screenshot](./online_bookstoreSQL.png)
 
 2. Advanced SQL Queries
 
 This screenshot demonstrates advanced SQL operations, including JOIN, GROUP BY, aggregate functions, and HAVING clauses.
 
-![Advanced SQL Queries](<img width="1355" height="572" alt="online_bookstoreSQL1" src="https://github.com/user-attachments/assets/410108e1-61c6-407a-8b75-4ac24b61ccde" />
-)
+[![Advanced SQL Queries](./online_bookstoreSQL1.png)](./online_bookstoreSQL1.png)
 
+[View full Advanced SQL screenshot](./online_bookstoreSQL1.png)
 
 
