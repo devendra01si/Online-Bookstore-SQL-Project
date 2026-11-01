@@ -51,4 +51,36 @@ This screenshot demonstrates advanced SQL operations, including JOIN, GROUP BY, 
 
 [View full Advanced SQL screenshot](./online_bookstoreSQL1.png)
 
+ 
+Question 6: Total Books Sold by Each Author
+
+Objective: Calculate the total number of books sold by each author and identify the authors with the highest book sales.
+
+SQL Concepts Used:
+- INNER JOIN
+- SUM() / COUNT() (as applicable to the query)
+- GROUP BY
+- ORDER BY
+
+SQL Query Result:
+
+The following table displays the total books sold by each author.
+
+![Question 6 SQL Result](./question6_sql_result.png)
+
+Data Visualization – Books Sold by Author:
+
+The pie chart provides a visual comparison of book sales across the five authors.
+
+![Question 6 Pie Chart](./question6_pie_chart.png)
+
+Key Findings:
+- Patrick Contreras: 28 books
+- Melissa Taylor: 27 books
+- Emily James: 24 books
+- Thomas Trujillo: 24 books
+- Valerie Moore: 23 books
+
+Patrick Contreras has the highest number of books sold among the five authors.
+
 
